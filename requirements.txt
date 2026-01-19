@@ -1,0 +1,30 @@
+# Core MCP framework
+fastmcp>=0.1.0
+
+# Knowledge Graph MCP (SQLite + graph utilities)
+sqlalchemy>=2.0.0
+sqlite-utils>=3.36.0
+
+# Long-Term Memory MCP (ChromaDB vector store)
+chromadb>=0.4.22
+sentence-transformers>=2.2.2
+numpy>=1.26.0
+
+# Paperless MCP (Paperless-NGX API client)
+requests>=2.31.0
+python-dateutil>=2.8.2
+
+# Python-Lab MCP (safe execution sandbox)
+psutil>=5.9.0
+
+# Web Search MCP (Bing / external API wrappers)
+aiohttp>=3.9.0
+pydantic>=2.5.0
+
+# Zim MCP (ZIM file parsing)
+pyzim>=0.3.0
+
+# Shared utilities
+uvicorn>=0.29.0
+fastapi>=0.110.0
+orjson>=3.9.10
