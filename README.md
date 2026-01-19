@@ -104,10 +104,9 @@ Tools:
 
 3. Cognitive Loop v0.5 — Full Cycle Overview
 A v0.5 cognitive cycle consists of six phases:
-3.1 Initiation
-The loop begins with:
 
-This returns a read plan.
+3.1 Initiation
+The loop begins with: This returns a read plan.
 
 3.2 Reading
 The host executes:
