@@ -1,3 +1,8 @@
+THIS IS STILL A WORK IN PROGRESS:
+
+
+
+
 🧠 README — Daryn’s Multi‑MCP Cognitive Architecture
 A complete reference for your Cognitive Loop, Knowledge Graph, Long‑Term Memory, Python‑Lab, Paperless, Web‑Search, and ZIM MCPs.
 
