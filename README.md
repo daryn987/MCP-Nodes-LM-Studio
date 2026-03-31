@@ -1,4 +1,6 @@
-THIS IS STILL A WORK IN PROGRESS, LM STUDIO LIKE TO SIMULATE ACTUALLY DOING THE COGNITIVE CYCLE SO WORKING ON SOME BUG FIXES CURRENTLY 19 JAN 2026:
+THIS IS STILL A WORK IN PROGRESS, LLM LIKES TO SIMULATE ACTUALLY DOING THE COGNITIVE CYCLE SO WORKING ON SOME BUG FIXES CURRENTLY 19 JAN 2026, I did eventually get it to work. But still work in progress.
+
+:::UPDATE::: 30 March 2026. LLM (modified GPTOSS 20B) used web_search function. Decided it wanted to give incorrect information. The prompt: Who is the current US president? The Answer: Joe Biden Why: I dont know, this was a test prompt that was used in January (i took a break from this) and in January, it provided the correct response Donald J Trump. In addition, it now refuses to input information into long term memory (argumentative) stating information that it searched is incorrect, even though it used valid sources (whitehouse.g o v and wikipedia) Now, I additionally had this same answer saved in January to long term, but it is no longer there? Its gone. Strange, I'll keep digging.
 
 
 
